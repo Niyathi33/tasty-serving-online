@@ -1,4 +1,4 @@
-import { mainContent } from './content.js';
+import { mainContent } from './data/content.js';
 
 document.addEventListener("DOMContentLoaded", () => {
   renderWelcomeSection();
